@@ -1,0 +1,9 @@
+numpy
+xarray
+netCDF4
+requests
+spiceypy
+astropy
+beautifulsoup4
+drms
+python-dateutil

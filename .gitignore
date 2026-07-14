@@ -1,0 +1,28 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Large external inputs and generated products
+data/
+output/
+*.fits
+*.fit
+*.fts
+*.img
+*.nc
+*.sav
+*.npz
+*.gif
+*.mp4
+*.part
+
+# Local run state
+logs/
+*.log
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
